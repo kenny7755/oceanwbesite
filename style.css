@@ -1,5 +1,10 @@
 /* css */
 * {
-  font-family: Times New Roman
+  font-family: Times New Roman;
 } 
-
+li {
+  color: teal;
+}
+* { 
+  background-image: url("C:\Users\koolk\Desktop\download.jpg"); 
+}
