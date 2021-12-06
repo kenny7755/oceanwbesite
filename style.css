@@ -15,5 +15,5 @@ body {
 }
 footer {
   background-color: white;
-  background-clip: padding-box;
+  background-clip: border-box;
 }
