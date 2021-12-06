@@ -7,4 +7,5 @@ li {
 }
 body { 
   background-image: url("photo-1488188840666-e2308741a62f.jpg"); 
+  background-size: cover; 
 }
