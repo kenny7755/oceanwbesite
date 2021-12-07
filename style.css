@@ -15,6 +15,7 @@ body {
 }
 footer {
   margin: auto; 
+  padding-top: 200px; 
   
 }
 .div {
@@ -23,5 +24,4 @@ footer {
   background-color: white;
   width: 100%
     text-align: center;
-  padding-down: 200px; 
 }
