@@ -15,7 +15,8 @@ body {
 }
 footer {
   margin: auto; 
-  padding-top: 200px; 
+padding: 10px 10px 10px 10px; 
+  border: 1px solid transparent;
   
 }
 .div {
