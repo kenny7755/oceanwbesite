@@ -21,4 +21,5 @@ footer {
 .div {
   border: 10px solid; 
   border-right: 5px;
+  border-left: 5px;
 }
